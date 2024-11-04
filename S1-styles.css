@@ -38,13 +38,13 @@ body {
 /* ON button with green image */
 
 .on-button {
-    background-image: url('img/ONN.png');
+    background-image: url('https://cdn.jsdelivr.net/gh/2O25pic/S1@latest/ONN.png');
 }
 
 /* OFF button with red image */
 
 .off-button {
-    background-image: url('img/OFF.png');
+    background-image: url('https://cdn.jsdelivr.net/gh/2O25pic/S1@latest/OFF.png');
 }
 
 .marquee-area {
